@@ -1,0 +1,18 @@
+.title {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 22px;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#prom {
+    background-color: green;
+    color: white;
+    font-size: 12px;
+    padding: 7px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 700;
+}
